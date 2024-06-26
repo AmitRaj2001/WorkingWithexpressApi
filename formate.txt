@@ -1,11 +1,11 @@
 rest Api - json
 
-get /users - list all users 
+get /api/users - list all users  //done
 
-get /users/1  - get a user with id 1
+get /api/users/1  - get a user with id 1 //done
 
-post /users  - create a user
+post /api/users  - create a user // after postman
 
-patch /users/1 - update a user with id 1
+patch /api/users/1 - update a user with id 1 // after postman
 
-delete /users/1 - delete a user with id 1
+delete /api/users/1 - delete a user with id 1 // after postman
